@@ -1,4 +1,4 @@
-File Combiner Base on Config
+Merge File Base on Config
 ====
 
 一个基于配置文件的合并工具，支持文件监听，保存立即合并
