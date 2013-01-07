@@ -1,0 +1,9 @@
+{	
+	"mergeAB" : {
+		target : "ab.js",
+		include :[
+			"src/a.js",
+			"src/b.js"			
+		]
+	}
+}
